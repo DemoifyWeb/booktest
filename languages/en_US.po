@@ -1,0 +1,239 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Materialize Template\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-02-17 23:27+0000\n"
+"PO-Revision-Date: 2018-02-17 23:32+0000\n"
+"Last-Translator: admi <admin@vsweb.be>\n"
+"Language-Team: English (United States)\n"
+"Language: en_US\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: archive.php:22 archive.php:53 author.php:22 author.php:53 category.php:22
+#: category.php:53 index.php:25 index.php:56
+msgid "Page"
+msgstr "Page"
+
+#: comments.php:54
+#, php-format
+msgctxt "comments title"
+msgid "One Reply to &ldquo;%s&rdquo;"
+msgstr "One Reply to &ldquo;%s&rdquo; "
+
+#: comments.php:58
+#, php-format
+msgctxt "comments title"
+msgid "%1$s Reply to &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s Replies to &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s Reply to &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s Replies to &ldquo;%2$s&rdquo;"
+
+#: comments.php:84
+msgid "prev"
+msgstr "prev"
+
+#: comments.php:85
+msgid "next"
+msgstr "next"
+
+#: comments.php:96
+msgid "Comments are closed."
+msgstr "Comments are closed."
+
+#: comments.php:105
+msgctxt "noun"
+msgid "Comment"
+msgstr "Comment"
+
+#: comments.php:114
+msgid "Name"
+msgstr "Name"
+
+#: comments.php:122
+msgid "Email"
+msgstr "Email"
+
+#: comments.php:130
+msgid "Website"
+msgstr "Website"
+
+#: content-none.php:15
+msgid "Nothing Found"
+msgstr "Nothing Found"
+
+#: content-none.php:22
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+
+#: content-none.php:26
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+
+#: content-none.php:31
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+
+#: content.php:21 content.php:26
+msgid "read more"
+msgstr "read more"
+
+#: footer.php:60
+msgid "about us"
+msgstr "about us"
+
+#: footer.php:65
+msgid "theme by"
+msgstr "theme by"
+
+#: searchform.php:41
+msgid "Search ..."
+msgstr "Search ..."
+
+#: searchform.php:42
+msgid "Search"
+msgstr "Search"
+
+#: inc/components.php:47
+msgid "Main menu"
+msgstr "Main menu"
+
+#: inc/components.php:48
+msgid "Footer menu"
+msgstr "Footer menu"
+
+#: inc/components.php:49
+msgid "First zone of profile menu"
+msgstr "First zone of profile menu"
+
+#: inc/components.php:50
+msgid "Second zone of profile menu"
+msgstr "Second zone of profile menu"
+
+#: inc/components.php:57
+msgid "Footer sidebar 1"
+msgstr "Footer sidebar 1"
+
+#: inc/components.php:59
+msgid "First widgets area of the footer"
+msgstr "First widgets area of the footer"
+
+#: inc/components.php:67
+msgid "Footer sidebar 2"
+msgstr "Footer sidebar 2"
+
+#: inc/components.php:69
+msgid "Second widgets area of the footer"
+msgstr "Second widgets area of the footer"
+
+#: inc/components.php:77
+msgid "Footer sidebar 3"
+msgstr "Footer sidebar 3"
+
+#: inc/components.php:79
+msgid "Third widgets area of the footer"
+msgstr "Third widgets area of the footer"
+
+#: inc/components.php:87
+msgid "Footer profile"
+msgstr "Footer about us zone"
+
+#: inc/components.php:90
+msgid "Profile area of the footer"
+msgstr "Footer about us zone"
+
+#. Name of the template
+#: inc/components.php:98
+msgid "Left sidebar"
+msgstr "Left sidebar"
+
+#: inc/components.php:100
+msgid "Widgets area for left sidebar"
+msgstr "Widgets area for left sidebar"
+
+#. Name of the template
+#: inc/components.php:108
+msgid "Right sidebar"
+msgstr "Right sidebar"
+
+#: inc/components.php:110
+msgid "Widgets area for right sidebar"
+msgstr "Widgets area for right sidebar"
+
+#: inc/components.php:206
+msgid "Log in to Reply"
+msgstr "Log in to Reply"
+
+#: inc/theme-options.php:81
+msgid "&copy; 2018 VsWeb"
+msgstr "&copy; 2018 VsWeb"
+
+#: inc/theme-options.php:87
+msgid "Theme colours"
+msgstr "Theme colours"
+
+#: inc/theme-options.php:92
+msgid "Theme options"
+msgstr "Theme options"
+
+#: inc/theme-options.php:98
+msgid "Header background-color"
+msgstr "Header background-color"
+
+#: inc/theme-options.php:104
+msgid "Menu background-color"
+msgstr "Menu background-color"
+
+#: inc/theme-options.php:110
+msgid "Sidebar background-color"
+msgstr "Sidebar background-color"
+
+#: inc/theme-options.php:116
+msgid "Footer background-color"
+msgstr "Footer background-color"
+
+#: inc/theme-options.php:122
+msgid "Copyright background-color"
+msgstr "Copyright background-color"
+
+#: inc/theme-options.php:128
+msgid "Default image"
+msgstr "Default image"
+
+#: inc/theme-options.php:135
+msgid "Copyright"
+msgstr "Copyright"
+
+#. Name of the template
+msgid "Full width"
+msgstr "Full width"
+
+#. Name of the theme
+msgid "Materialize Template"
+msgstr "Materialize Template"
+
+#. Description of the theme
+msgid "A complete material design wordpress template"
+msgstr "A complete material design wordpress template"
+
+#. Author of the theme
+msgid "Geoffrey Kratz"
+msgstr "Geoffrey Kratz"
+
+#. Author URI of the theme
+msgid "https://vsweb.be/"
+msgstr "https://vsweb.be/"
